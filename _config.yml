@@ -1,0 +1,29 @@
+name: josh
+favicon: null
+layout_spectrum: 0.5416227171663195
+typography_spectrum: 0.9684646318200976
+title: Josh Fowler
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8221024742815644
+  lightness: 0.4627310927025974
+  saturation: 0.5625497770961374
+  rhythmicContrast: 0.5279888154473156
+purpose: []
